@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next js , jwt etc.**
 
-- 👯 I’m looking to collaborate on [Car](https://assigment-10-baf43.web.app)
+- 👯 I’m looking to collaborate on [Car] (https://drive-pluse.web.app/)
 
 - 🤝 I’m looking for help with [Student instute](https://assigment-9th-tonmoy.surge.sh/)
 
